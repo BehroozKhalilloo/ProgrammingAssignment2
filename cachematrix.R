@@ -29,5 +29,5 @@ makeCacheMatrix <- function(x = matrix()) {
         
         
         
-#3
-        
+#SHA-1 hash identifier 
+  #1b037f69e209e0b71538e7048c88d78e30c32714
